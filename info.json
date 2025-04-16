@@ -1,0 +1,10 @@
+{
+	"name": "early-foundations",
+	"version": "0.1.0",
+	"title": "Early Foundations",
+	"author": "Chesapeake [moth.monster]",
+	"factorio_version": "2.0",
+	"dependencies": ["base >= 2.0", "space-age"],
+	"description": "Early foundations for Fulgora.",
+	"contact": "hello@moth.monster"
+}
