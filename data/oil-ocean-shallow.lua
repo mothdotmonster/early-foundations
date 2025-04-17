@@ -1,0 +1,1 @@
+data.raw["tile"]["oil-ocean-shallow"].default_cover_tile = "short-pile-foundation"

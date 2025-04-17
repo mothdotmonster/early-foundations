@@ -26,6 +26,7 @@ item.place_as_tile = {
 }
 item.icon = "__early-foundations__/icons/item.png"
 item.icon_size = 64
+item.default_import_location = "fulgora"
 
 local recipe = {
 	type = "recipe",
